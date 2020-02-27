@@ -1,5 +1,14 @@
-# **xeCJK_demo**
----
+
+xeCJK
+=====
+
+`xeCJK` is a package written for XeLaTeX which allows users to typeset
+CJK scripts easily.
+
+ - Different default fonts for CJK and other characters.
+ - Spaces automatically ignored between CJK characters.
+ - Special effects on full-width CJK punctuation.
+ - Automatic adjustment of the space between CJK and other characters.
 
 xeCJK使用范例说明代码部分
 
