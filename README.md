@@ -10,7 +10,16 @@ CJK scripts easily.
  - Special effects on full-width CJK punctuation.
  - Automatic adjustment of the space between CJK and other characters.
 
+
+This package is a part of the [ctex-kit](https://github.com/CTeX-org/ctex-kit) project.
+
+Issues and pull requests are welcome.
+
+
 xeCJK使用范例说明代码部分
+---------------------
+
+
 
 ```tex
 \documentclass[10pt,a4paper,openany]{article}
